@@ -1,0 +1,6 @@
+{
+  "name": "meu-projeto",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "teste_node.js"
+}
